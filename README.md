@@ -1,2 +1,3 @@
-# Laptop_customerizer
-working with react components 
+# Increment Button Challenge
+
+A React challenge
